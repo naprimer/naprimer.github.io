@@ -1,0 +1,16 @@
+.chart-wrapper{
+    position: relative; 
+    width: 800px;
+    height: 400px; 
+}
+
+.chart-wrapper select{
+    position: absolute;
+    top: 0; 
+    left: 0;
+    z-index: 2;
+}
+
+.chart-wrapper canvas{
+    
+}
